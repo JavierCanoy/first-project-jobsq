@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46">
+  <g id="Group_52" data-name="Group 52" transform="translate(-1592 747)">
+    <g id="icon" transform="translate(1591 -746)" style="isolation: isolate">
+      <g id="Group_51" data-name="Group 51" transform="translate(1 -1)">
+        <path id="background" d="M10,0H36A10,10,0,0,1,46,10V36A10,10,0,0,1,36,46H10A10,10,0,0,1,0,36V10A10,10,0,0,1,10,0Z" fill="#357ec1" style="isolation: isolate"/>
+      </g>
+    </g>
+    <g id="Component_1_2" data-name="Component 1 – 2" transform="translate(1607 -733)">
+      <path id="Path_7" data-name="Path 7" d="M66,430v-2a4,4,0,0,0-4-4H54a4,4,0,0,0-4,4v2" transform="translate(-50 -412)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_8" data-name="Path 8" d="M58,420a4,4,0,1,0-4-4A4,4,0,0,0,58,420Z" transform="translate(-50 -412)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

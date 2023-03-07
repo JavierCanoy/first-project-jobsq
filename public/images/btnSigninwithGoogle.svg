@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="btnSigninwithGoogle" style="isolation: isolate">
+    <g id="iconGoogle" style="isolation: isolate">
+      <path id="Vector" d="M22.518,9.105a14.977,14.977,0,0,1-9.65,3.592A15.006,15.006,0,0,1,0,5.291L.974.8,5.291,0a7.966,7.966,0,0,0,7.576,5.607A7.8,7.8,0,0,0,17.508,4.1l4.148.633Z" transform="translate(2.133 17.303)" fill="#59c36a" style="isolation: isolate"/>
+      <path id="Vector-2" data-name="Vector" d="M9.65,5.01,8.789.633,4.641,0A7.8,7.8,0,0,1,0,1.512V8.6A14.977,14.977,0,0,0,9.65,5.01Z" transform="translate(15 21.398)" fill="#00a66c" style="isolation: isolate"/>
+      <path id="Vector-3" data-name="Vector" d="M7.09,7.594a8.192,8.192,0,0,0,.334,2.3L2.133,15.187A14.853,14.853,0,0,1,0,7.594,14.852,14.852,0,0,1,2.133,0L6.379.731l1.045,4.56A8.191,8.191,0,0,0,7.09,7.594Z" transform="translate(0 7.406)" fill="#ffda2d" style="isolation: isolate"/>
+      <path id="Vector-4" data-name="Vector" d="M15.879,3.516a14.976,14.976,0,0,1-5.35,11.408L5.52,9.914A7.778,7.778,0,0,0,7.963,7.031H.879A.87.87,0,0,1,0,6.152V.879A.87.87,0,0,1,.879,0H14.754a.869.869,0,0,1,.861.721A14.907,14.907,0,0,1,15.879,3.516Z" transform="translate(14.121 11.484)" fill="#4086f4" style="isolation: isolate"/>
+      <path id="Vector-5" data-name="Vector" d="M7.084,7.031A7.778,7.778,0,0,1,4.641,9.914l5.01,5.01A14.976,14.976,0,0,0,15,3.516,14.9,14.9,0,0,0,14.736.721.868.868,0,0,0,13.875,0H0V7.031Z" transform="translate(15 11.484)" fill="#376aed" style="isolation: isolate"/>
+      <path id="Vector-6" data-name="Vector" d="M22.764,4.189a.887.887,0,0,1-.246.65L18.756,8.584a.861.861,0,0,1-1.142.088A7.862,7.862,0,0,0,12.867,7.09,7.966,7.966,0,0,0,5.291,12.7L0,7.406A15.006,15.006,0,0,1,12.867,0a14.955,14.955,0,0,1,9.58,3.539A.924.924,0,0,1,22.764,4.189Z" transform="translate(2.133)" fill="#ff7f23" style="isolation: isolate"/>
+      <path id="Vector-7" data-name="Vector" d="M4.746,8.672a.861.861,0,0,0,1.143-.088L9.65,4.84a.886.886,0,0,0,.246-.65.924.924,0,0,0-.316-.65A14.955,14.955,0,0,0,0,0V7.09A7.862,7.862,0,0,1,4.746,8.672Z" transform="translate(15)" fill="#f03800" style="isolation: isolate"/>
+    </g>
+  </g>
+</svg>
