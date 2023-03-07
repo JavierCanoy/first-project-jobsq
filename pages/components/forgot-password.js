@@ -29,8 +29,8 @@ export default function forgotPassword() {
         // Handle successful response
         // redirect to next page - homePage
         // window.location.href = "/components/homePage";
-        router.push("/components/forgot-success");
         console.log(data);
+        router.push("/components/forgot-success");
       })
       .catch((error) => {
         toast.error(error.message, {
