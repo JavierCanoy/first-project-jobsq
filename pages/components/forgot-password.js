@@ -30,7 +30,7 @@ export default function forgotPassword() {
         // redirect to next page - homePage
         // window.location.href = "/components/homePage";
         console.log(data);
-        router.push("/components/forgot-success");
+        router.push("/components/success-forgotPassword");
       })
       .catch((error) => {
         toast.error(error.message, {
