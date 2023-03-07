@@ -107,7 +107,7 @@ export default function Login() {
                   </div>
                 </div>
               </div>
-              <div className="password flex justify-center mt-5 ">
+              <div className="password flex justify-center mt-3 ">
                 <div className=" relative  ">
                   <input
                     {...register("password", {
@@ -142,7 +142,7 @@ export default function Login() {
                 </div>
               </div>
 
-              <div className="checkbox mx-8   mt-5 ">
+              <div className="checkbox mx-8   mt-3 ">
                 <div className="text-sm leading-5 font-normal inline-flex items-center text-gray-500">
                   <input
                     type="checkbox"
@@ -151,7 +151,7 @@ export default function Login() {
                   <span>Remember Me</span>
                 </div>
               </div>
-              <div className="grid place-content-center mt-5   ">
+              <div className="grid place-content-center mt-3   ">
                 <button
                   className="bg-colorThem-100 rounded-xl  w-80 h-16 text-base px-2 py-2 text-white "
                   type="submit"
